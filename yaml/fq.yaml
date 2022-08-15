@@ -1,0 +1,99 @@
+payload:
+  # > 网页
+  - DOMAIN-SUFFIX,nyaa.si
+  - DOMAIN-SUFFIX,kisssub.org
+  - DOMAIN-SUFFIX,nn.ci
+  - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,v2fly.org
+  - DOMAIN-SUFFIX,deyaya.cc
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,facebook.net
+  - DOMAIN-SUFFIX,fb.me
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,fuli.one
+  - DOMAIN-SUFFIX,avtb01.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,91porn.com
+  - DOMAIN-SUFFIX,91p01.com
+  - DOMAIN-SUFFIX,av2.fit
+  - DOMAIN-SUFFIX,99tt.xyz
+  - DOMAIN-SUFFIX,amav.xyz
+  - DOMAIN-SUFFIX,swccd.edu
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,airexplorer.net
+  - DOMAIN,apd-vodp2ptestlogin.teg.tencent-cloud.net
+  - DOMAIN,jdsharedresourcescdn.azureedge.net
+  - DOMAIN-SUFFIX,ift.tt
+  - DOMAIN-SUFFIX,dropbox.com
+  - DOMAIN-SUFFIX,heroku.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,dubox.com
+  - DOMAIN-SUFFIX,terabox.com
+  - DOMAIN-SUFFIX,hostloc.com
+  #oracle
+  - DOMAIN-SUFFIX,oraclecloud.com
+
+  #新闻
+  - DOMAIN-SUFFIX,hk01.com
+  - DOMAIN-SUFFIX,appledaily.com
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,wikimedia.org
+  #仓库
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,gitbook.com
+  - DOMAIN-SUFFIX,gitbook.io
+  # > ABC
+  - DOMAIN-SUFFIX,edgedatg.com
+  - DOMAIN-SUFFIX,go.com
+  # one
+  - DOMAIN-SUFFIX,live.com
+  - IP-CIDR,45.32.164.128/32
+
+  - IP-CIDR,172.217.163.0/24
+  - IP-CIDR,172.217.160.0/24
+  - IP-CIDR,172.217.27.0/24
+  - IP-CIDR,172.217.24.0/24
+  - IP-CIDR,142.251.42.0/24
+  - IP-CIDR,142.251.43.0/24
+  - IP-CIDR,216.58.200.0/24
+  #sp
+  - DOMAIN-SUFFIX,cloudfront.net
+  #@tv
+  - DOMAIN-SUFFIX,jisutv.vip
+  - DOMAIN-SUFFIX,auroraoss.com
+  - DOMAIN-SUFFIX,appcenter.ms
+  #euserv
+  - DOMAIN-SUFFIX,twitch.tv
+  - DOMAIN-SUFFIX,ttvnw.net
+  #cloudflare
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  #ip
+  - DOMAIN-SUFFIX,sspanel.net
+  - DOMAIN-SUFFIX,boodigo.com
+  - DOMAIN-SUFFIX,dockernb.com
+  - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,v2ex.com
+  #微软
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,dadaorom.com
+  - DOMAIN-SUFFIX,anyproxy.io
+  #steam
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  #ip查询
+  - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,IPInfo.io
+  - DOMAIN-SUFFIX,ipify.org

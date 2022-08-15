@@ -1,0 +1,35 @@
+payload:
+  # > gooleVideo
+  - DOMAIN-SUFFIX,cloudshell.dev
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,google.fi
+  - DOMAIN-SUFFIX,google.ru
+  - DOMAIN-SUFFIX,google.es
+  - DOMAIN-SUFFIX,google.com.ph
+  - DOMAIN-SUFFIX,google.co.in
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,google.com.hk
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,youtube.com.hk
+  - DOMAIN-SUFFIX,youtubekids.com
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,yt.be
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,googletagservices.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,googleadservices.com
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,appspot.com
+  - DOMAIN-SUFFIX,blogger.com
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,google.cn
+  - DOMAIN-SUFFIX.doubleclick.net

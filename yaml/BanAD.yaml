@@ -1,0 +1,23 @@
+payload:
+ - DOMAIN,t7z.cupid.ptqy.gitv.tv
+ - DOMAIN,cn-aps.c2dms.com
+ - DOMAIN,x-research.play.aiseet.atianqi.com
+ - DOMAIN,sv-video.play.aiseet.atianqi.com
+ - DOMAIN,googleads.g.doubleclick.net
+
+ - DOMAIN,pad.da.mgtv.com
+ - DOMAIN,pad2.da.mgtv.com
+ - DOMAIN,ott.da.mgtv.com
+ - DOMAIN,ott2.da.mgtv.com
+ - DOMAIN,ott3.da.mgtv.com
+ #- DOMAIN,pl.cp31.ott.cibntv.net
+ - DOMAIN,av1.xdrig.com
+ - DOMAIN,me.xdrig.com
+ - DOMAIN,gv1.xdrig.com
+ - DOMAIN,ulogs.umeng.com
+ #垃圾广告图
+ - DOMAIN-SUFFIX,pingping888.com
+ - DOMAIN-SUFFIX,cytcm.com
+ - DOMAIN-SUFFIX,fkesfg.com
+ - DOMAIN-SUFFIX,sodhef.com
+ - DOMAIN-SUFFIX,irs01.com
