@@ -15,9 +15,3 @@ payload:
  - DOMAIN,me.xdrig.com
  - DOMAIN,gv1.xdrig.com
  - DOMAIN,ulogs.umeng.com
- #垃圾广告图
- - DOMAIN-SUFFIX,pingping888.com
- - DOMAIN-SUFFIX,cytcm.com
- - DOMAIN-SUFFIX,fkesfg.com
- - DOMAIN-SUFFIX,sodhef.com
- - DOMAIN-SUFFIX,irs01.com
