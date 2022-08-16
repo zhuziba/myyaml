@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,terabox.com
   - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,sentry.io
   #oracle
   - DOMAIN-SUFFIX,oraclecloud.com
 
@@ -59,7 +60,6 @@ payload:
   # one
   - DOMAIN-SUFFIX,live.com
   - IP-CIDR,45.32.164.128/32
-
   - IP-CIDR,172.217.163.0/24
   - IP-CIDR,172.217.160.0/24
   - IP-CIDR,172.217.27.0/24
