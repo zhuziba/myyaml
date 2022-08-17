@@ -88,10 +88,6 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,dadaorom.com
   - DOMAIN-SUFFIX,anyproxy.io
-  #steam
-  - DOMAIN-SUFFIX,steam-chat.com
-  - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-SUFFIX,steamstatic.com
   #ip查询
   - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,ip.sb
