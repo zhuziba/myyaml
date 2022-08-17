@@ -96,3 +96,4 @@ payload:
   - DOMAIN-SUFFIX,pki.goog
   #DD游戏
   - DOMAIN-SUFFIX,ddnet.tw
+  - DOMAIN-SUFFIX,multiplay.com
