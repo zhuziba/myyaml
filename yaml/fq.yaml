@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,g2.com
+  - DOMAIN-SUFFIX,helpscout.net
   - DOMAIN-SUFFIX,v2fly.org
   - DOMAIN-SUFFIX,deyaya.cc
   - DOMAIN-SUFFIX,steamcommunity.com
