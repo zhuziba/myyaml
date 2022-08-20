@@ -19,9 +19,6 @@ payload:
  ##微软
  - DOMAIN-SUFFIX,windows.com
  - DOMAIN-SUFFIX,windowsupdate
-
- - DOMAIN-SUFFIX,lastpass.com
-
  - DOMAIN-SUFFIX,bdstatic.com
  - DOMAIN-SUFFIX,greasyfork.org
 
