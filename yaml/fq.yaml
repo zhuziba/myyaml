@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,g2.com
+  - DOMAIN-SUFFIX,mail.io
   - DOMAIN-SUFFIX,helpscout.net
   - DOMAIN-SUFFIX,v2fly.org
   - DOMAIN-SUFFIX,deyaya.cc
