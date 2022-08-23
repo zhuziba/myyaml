@@ -13,9 +13,6 @@ payload:
  - DOMAIN-SUFFIX,steamcontent.com
  - DOMAIN-SUFFIX,wmsjsteam.com
  - DOMAIN-SUFFIX,ksyna.com
- ##epic
- - DOMAIN-SUFFIX,launchdarkly.com
- - DOMAIN-SUFFIX,epicgames.com
  ##微软
  - DOMAIN-SUFFIX,windows.com
  - DOMAIN-SUFFIX,windowsupdate
