@@ -70,3 +70,5 @@ payload:
  
  ##购物
  - DOMAIN,wl.jd.com
+ ##fallguys
+ - DOMAIN-SUFFIX,oncatapult.com
