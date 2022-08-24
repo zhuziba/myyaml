@@ -62,14 +62,6 @@ payload:
   - DOMAIN-SUFFIX,go.com
   # one
   - DOMAIN-SUFFIX,live.com
-  - IP-CIDR,45.32.164.128/32
-  - IP-CIDR,172.217.163.0/24
-  - IP-CIDR,172.217.160.0/24
-  - IP-CIDR,172.217.27.0/24
-  - IP-CIDR,172.217.24.0/24
-  - IP-CIDR,142.251.42.0/24
-  - IP-CIDR,142.251.43.0/24
-  - IP-CIDR,216.58.200.0/24
   #sp
   - DOMAIN-SUFFIX,cloudfront.net
   #@tv
