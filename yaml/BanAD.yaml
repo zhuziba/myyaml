@@ -4,7 +4,7 @@ payload:
  - DOMAIN,x-research.play.aiseet.atianqi.com
  - DOMAIN,sv-video.play.aiseet.atianqi.com
  - DOMAIN,googleads.g.doubleclick.net
-
+ - DOMAIN,clk.tradedoubler.com
  - DOMAIN,pad.da.mgtv.com
  - DOMAIN,pad2.da.mgtv.com
  - DOMAIN,ott.da.mgtv.com
