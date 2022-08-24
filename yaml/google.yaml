@@ -9,6 +9,7 @@ payload:
  - DOMAIN-SUFFIX,googleapis.com
  - DOMAIN-SUFFIX,google-analytics.com
  - DOMAIN-SUFFIX,google.com.hk
+ - DOMAIN-SUFFIX,googleplay.com
  - DOMAIN-SUFFIX,youtube.com
  - DOMAIN-SUFFIX,youtube.com.hk
  - DOMAIN-SUFFIX,youtubekids.com
