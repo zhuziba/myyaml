@@ -22,9 +22,11 @@ payload:
  - DOMAIN-SUFFIX,googlesyndication.com
  - DOMAIN-SUFFIX,googleadservices.com
  - DOMAIN-SUFFIX,googletagmanager.com
+ - DOMAIN-SUFFIX,googlevideo.com
  - DOMAIN-SUFFIX,googleapis-cn.com
  - DOMAIN-SUFFIX,gstatic.com
  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+ 
  - DOMAIN-SUFFIX,ytimg.com
  - DOMAIN-SUFFIX,ggpht.com
  - DOMAIN-SUFFIX,appspot.com
