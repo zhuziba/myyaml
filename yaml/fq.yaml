@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,terabox.com
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,duckduckgo.com
   #oracle
   - DOMAIN-SUFFIX,oraclecloud.com
 
