@@ -95,4 +95,4 @@ payload:
   #DD游戏
   - DOMAIN-SUFFIX,ddnet.tw
   - DOMAIN-SUFFIX,multiplay.com
-  - DOMAIN-SUFFIX,beanfun.com
+  - DOMAIN,tw.login.kartrider.beanfun.com
