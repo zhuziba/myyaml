@@ -1,6 +1,7 @@
 payload:
   # > 网页
   - DOMAIN-SUFFIX,nyaa.si
+  - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,ueuo.com
   - DOMAIN-SUFFIX,kisssub.org
   - DOMAIN-SUFFIX,nn.ci
