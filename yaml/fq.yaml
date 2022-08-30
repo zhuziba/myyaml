@@ -99,5 +99,6 @@ payload:
   - DOMAIN,tw.login.kartrider.beanfun.com
   - DOMAIN,tw.beanfun.com
   - DOMAIN,tw.newlogin.beanfun.com
+  - DOMAIN-SUFFIX,nexon.com
   #kart
   - IP-CIDR,210.208.95.0/24
