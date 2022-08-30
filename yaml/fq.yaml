@@ -92,7 +92,6 @@ payload:
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,IPInfo.io
   - DOMAIN-SUFFIX,ipify.org
-  - DOMAIN-SUFFIX,pki.goog
   #DD游戏
   - DOMAIN-SUFFIX,ddnet.tw
   - DOMAIN-SUFFIX,multiplay.com
