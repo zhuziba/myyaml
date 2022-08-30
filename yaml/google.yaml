@@ -15,6 +15,7 @@ payload:
  - DOMAIN-SUFFIX,youtubekids.com
  - DOMAIN-SUFFIX,youtube-nocookie.com
  - DOMAIN-SUFFIX,yt.be
+ - DOMAIN-SUFFIX,pki.goog
  - DOMAIN-SUFFIX,youtu.be
  - DOMAIN-SUFFIX,gvt2.com
  - DOMAIN-SUFFIX,gvt1.com
