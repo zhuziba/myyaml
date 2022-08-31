@@ -18,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,v2fly.org
   - DOMAIN-SUFFIX,deyaya.cc
   - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,facebook.net
@@ -62,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,githubusercontent.com
   # > ABC
   - DOMAIN-SUFFIX,edgedatg.com
   - DOMAIN-SUFFIX,go.com
