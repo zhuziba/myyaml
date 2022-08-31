@@ -33,7 +33,6 @@ payload:
   - DOMAIN-SUFFIX,99tt.xyz
   - DOMAIN-SUFFIX,amav.xyz
   - DOMAIN-SUFFIX,swccd.edu
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,airexplorer.net
   - DOMAIN,apd-vodp2ptestlogin.teg.tencent-cloud.net
   - DOMAIN,jdsharedresourcescdn.azureedge.net
@@ -77,8 +76,6 @@ payload:
   #euserv
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,ttvnw.net
-  #cloudflare
-  - DOMAIN-SUFFIX,cloudflare-dns.com
   #ip
   - DOMAIN-SUFFIX,sspanel.net
   - DOMAIN-SUFFIX,boodigo.com
