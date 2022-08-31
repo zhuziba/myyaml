@@ -33,8 +33,6 @@ payload:
   - DOMAIN-SUFFIX,amav.xyz
   - DOMAIN-SUFFIX,swccd.edu
   - DOMAIN-SUFFIX,airexplorer.net
-  - DOMAIN,apd-vodp2ptestlogin.teg.tencent-cloud.net
-  - DOMAIN,jdsharedresourcescdn.azureedge.net
   - DOMAIN-SUFFIX,ift.tt
   - DOMAIN-SUFFIX,dropbox.com
   - DOMAIN-SUFFIX,heroku.com
