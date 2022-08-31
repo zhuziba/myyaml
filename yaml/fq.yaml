@@ -67,8 +67,6 @@ payload:
   - DOMAIN-SUFFIX,go.com
   # one
   - DOMAIN-SUFFIX,live.com
-  #sp
-  - DOMAIN-SUFFIX,cloudfront.net
   #@tv
   - DOMAIN-SUFFIX,jisutv.vip
   - DOMAIN-SUFFIX,auroraoss.com
