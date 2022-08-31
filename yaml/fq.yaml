@@ -1,6 +1,7 @@
 payload:
   # > 网页
   - DOMAIN-SUFFIX,nyaa.si
+  - DOMAIN-SUFFIX,cdlinux.info
   - DOMAIN-SUFFIX,mozgcp.net
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,edgecastcdn.net
