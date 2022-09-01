@@ -4,6 +4,7 @@ payload:
  - DOMAIN-SUFFIX,google.fi
  - DOMAIN-SUFFIX,google.ru
  - DOMAIN-SUFFIX,google.es
+ - DOMAIN-SUFFIX,google.com.au
  - DOMAIN-SUFFIX,google.com.ph
  - DOMAIN-SUFFIX,google.co.in
  - DOMAIN-SUFFIX,googleapis.com
