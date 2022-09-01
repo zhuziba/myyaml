@@ -49,8 +49,6 @@ payload:
  
  - DOMAIN-SUFFIX,greenleafgroup.cn
 
- - DOMAIN-SUFFIX,terahard.org
- - DOMAIN-SUFFIX,baidu.com
  - DOMAIN-SUFFIX,hdslb.com
  - DOMAIN-SUFFIX,bilivideo.com
  - DOMAIN-SUFFIX,openshift.com
