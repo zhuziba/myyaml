@@ -99,3 +99,5 @@ payload:
   - DOMAIN,tw.beanfun.com
   - DOMAIN,tw.newlogin.beanfun.com
   - DOMAIN-SUFFIX,nexon.com
+  #FASTLY
+  - DOMAIN-SUFFIX,fastly-analytics.com
