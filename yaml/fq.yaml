@@ -2,6 +2,7 @@ payload:
   # > 网页
   - DOMAIN-SUFFIX,x.co
   - DOMAIN-SUFFIX,getapp.com
+  - DOMAIN-SUFFIX,paldier.com
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,cdlinux.info
   - DOMAIN-SUFFIX,cdlinux.net
