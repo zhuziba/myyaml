@@ -22,10 +22,6 @@ payload:
   - DOMAIN-SUFFIX,deyaya.cc
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,firebaseio.com
-  - DOMAIN-SUFFIX,facebook.com
-  - DOMAIN-SUFFIX,facebook.net
-  - DOMAIN-SUFFIX,fb.me
-  - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,fuli.one
   - DOMAIN-SUFFIX,avtb01.com
   - DOMAIN-SUFFIX,pornhub.com
@@ -90,6 +86,12 @@ payload:
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,IPInfo.io
   - DOMAIN-SUFFIX,ipify.org
+  #fb
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,facebook.net
+  - DOMAIN-SUFFIX,fb.me
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,fbsbx.com
   #DD游戏
   - DOMAIN-SUFFIX,ddnet.tw
   - DOMAIN-SUFFIX,multiplay.com
