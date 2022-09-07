@@ -95,8 +95,7 @@ payload:
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,fbsbx.com
-  #DD游戏
-  - DOMAIN-SUFFIX,ddnet.tw
+  #游戏
   - DOMAIN-SUFFIX,multiplay.com
   - DOMAIN,tw.login.kartrider.beanfun.com
   - DOMAIN,tw.beanfun.com
