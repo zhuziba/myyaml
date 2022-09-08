@@ -107,3 +107,4 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN,api.steampowered.com
   - DOMAIN,hff.terahard.org
+  - DOMAIN,store.steampowered.com
