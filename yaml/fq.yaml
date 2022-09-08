@@ -23,7 +23,6 @@ payload:
   - DOMAIN-SUFFIX,helpscout.net
   - DOMAIN-SUFFIX,v2fly.org
   - DOMAIN-SUFFIX,deyaya.cc
-  - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,fuli.one
   - DOMAIN-SUFFIX,avtb01.com
@@ -103,3 +102,6 @@ payload:
   - DOMAIN-SUFFIX,nexon.com
   #FASTLY
   - DOMAIN-SUFFIX,fastly-analytics.com
+  #steam
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN,api.steampowered.com
