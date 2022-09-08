@@ -1,6 +1,7 @@
 payload:
   # > 网页
   - DOMAIN-SUFFIX,x.co
+  - DOMAIN-SUFFIX,hdwan.net
   - DOMAIN-SUFFIX,armn1.ml
   - DOMAIN-SUFFIX,getapp.com
   - DOMAIN-SUFFIX,paldier.com
