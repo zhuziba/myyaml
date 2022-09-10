@@ -113,3 +113,4 @@ payload:
   #抖音
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokcdn-us.com
