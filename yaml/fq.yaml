@@ -1,5 +1,6 @@
 payload:
   # > 网页
+  - DOMAIN-SUFFIX,apkmirror.com
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,x.co
   - DOMAIN-SUFFIX,hdwan.net
