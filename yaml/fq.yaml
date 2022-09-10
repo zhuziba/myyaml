@@ -112,3 +112,4 @@ payload:
   - DOMAIN,store.steampowered.com
   #抖音
   - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
