@@ -1,5 +1,6 @@
 payload:
   # > 网页
+  - DOMAIN-SUFFIX,byrut.org
   - DOMAIN-SUFFIX,apkmirror.com
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,x.co
