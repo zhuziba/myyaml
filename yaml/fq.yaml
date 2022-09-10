@@ -109,3 +109,5 @@ payload:
   - DOMAIN,api.steampowered.com
   - DOMAIN,hff.terahard.org
   - DOMAIN,store.steampowered.com
+  #抖音
+  - DOMAIN-SUFFIX,tiktokv.com
