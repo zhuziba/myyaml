@@ -108,6 +108,7 @@ payload:
   - DOMAIN-SUFFIX,fastly-analytics.com
   #steam
   - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN,steam-chat.com
   - DOMAIN,api.steampowered.com
   - DOMAIN,hff.terahard.org
   - DOMAIN,store.steampowered.com
