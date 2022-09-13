@@ -114,6 +114,8 @@ payload:
   - DOMAIN,hff.terahard.org
   - DOMAIN,store.steampowered.com
   #抖音
+  - DOMAIN,mon.isnssdk.com
+  - DOMAIN-SUFFIX,byteeffecttos-g.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokcdn-us.com
