@@ -16,6 +16,7 @@
 ||develop.waxrain.com
 ||xdrig.com
 ||snssdk.com
+@@||i.snssdk.com
 @@||verify.snssdk.com
 ||otheve.beacon.qq.com
 ||pgdt.ugdtimg.com
