@@ -14,4 +14,4 @@ payload:
  - DOMAIN,av1.xdrig.com
  - DOMAIN,me.xdrig.com
  - DOMAIN,gv1.xdrig.com
- - DOMAIN,ulogs.umeng.com
+ - DOMAIN-SUFFIX,umeng.com
