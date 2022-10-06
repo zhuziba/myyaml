@@ -1,5 +1,6 @@
 payload:
   # > 网页
+  - DOMAIN-SUFFIX,bit.ly
   - DOMAIN-SUFFIX,byrut.org
   - DOMAIN-SUFFIX,ddys2.me
   - DOMAIN-SUFFIX,apkmirror.com
