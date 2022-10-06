@@ -97,6 +97,7 @@ payload:
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,IPInfo.io
   - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN,qqwry.api.skk.moe
   #fb
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,facebook.net
