@@ -67,7 +67,7 @@ payload:
  - DOMAIN-SUFFIX,ifttt.com
  
  ##购物
- - DOMAIN,wl.jd.com
+ - DOMAIN-SUFFIX,jd.com
  ##fallguys
  - DOMAIN-SUFFIX,epicgames.dev
  - DOMAIN-SUFFIX,epicgames.com
