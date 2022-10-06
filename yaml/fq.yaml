@@ -70,6 +70,7 @@ payload:
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,githubusercontent.com
   # > ABC
   - DOMAIN-SUFFIX,edgedatg.com
