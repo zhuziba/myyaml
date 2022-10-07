@@ -1,12 +1,4 @@
 payload:
- ##apple
- - DOMAIN-SUFFIX,apple.cn
- - DOMAIN-SUFFIX,apple.com
- - DOMAIN-SUFFIX,apple-dns.net
- - DOMAIN-SUFFIX,apple-cloudkit.com
- - DOMAIN-SUFFIX,edgekey.net
- - DOMAIN-SUFFIX,icloud.com
- - DOMAIN-SUFFIX,akadns.net
  ##steam
  - DOMAIN-SUFFIX,akamaized.net
  - DOMAIN-SUFFIX,akamaihd.net
