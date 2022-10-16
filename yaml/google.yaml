@@ -6,6 +6,7 @@ payload:
  - DOMAIN-SUFFIX,google.es
  - DOMAIN-SUFFIX,google.com.au
  - DOMAIN-SUFFIX,google.com.ph
+ - DOMAIN-SUFFIX,google.co.za
  - DOMAIN-SUFFIX,google.co.in
  - DOMAIN-SUFFIX,googleapis.com
  - DOMAIN-SUFFIX,google-analytics.com
