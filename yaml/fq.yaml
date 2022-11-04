@@ -130,5 +130,3 @@ payload:
   - DOMAIN-SUFFIX,tiktokcdn-us.com
   #ip
   - IP-CIDR,156.255.103.20/32
-  - IP-CIDR,129.146.138.50/32
-  - IP-CIDR,158.101.20.143/32
