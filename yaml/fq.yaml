@@ -52,7 +52,6 @@ payload:
   - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,terabox.com
   - DOMAIN-SUFFIX,hostloc.com
-  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,bulianglin.com
   #oracle
