@@ -65,6 +65,7 @@ payload:
   #仓库
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,githubapp.com
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,gitbook.com
