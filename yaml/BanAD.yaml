@@ -34,3 +34,5 @@ payload:
  - DOMAIN,log-sdk.ksapisrv.com
  - DOMAIN,toblog.ctobsnssdk.com
  - DOMAIN,tobapplog.ctobsnssdk.com
+ - DOMAIN,mon.zijieapi.com
+ - DOMAIN,sdk.alibaba.com.ailbaba.me
