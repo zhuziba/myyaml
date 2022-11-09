@@ -37,3 +37,4 @@ payload:
  - DOMAIN,mon.zijieapi.com
  - DOMAIN,sdk.alibaba.com.ailbaba.me
  - DOMAIN-SUFFIX,easytomessage.com
+ - DOMAIN-SUFFIX,pglstatp-toutiao.com
