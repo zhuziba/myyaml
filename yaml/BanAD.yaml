@@ -14,6 +14,9 @@ payload:
  - DOMAIN,av1.xdrig.com
  - DOMAIN,me.xdrig.com
  - DOMAIN,gv1.xdrig.com
+ - DOMAIN,android.bugly.qq.com
+ - DOMAIN,astat.bugly.qq.com
+ - DOMAIN,ios.bugly.qq.com
  - DOMAIN,sdk.e.qq.com
  - DOMAIN,otheve.beacon.qq.com
  - DOMAIN,aeventlog.beacon.qq.com
