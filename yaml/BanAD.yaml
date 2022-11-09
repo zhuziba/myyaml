@@ -36,3 +36,4 @@ payload:
  - DOMAIN,tobapplog.ctobsnssdk.com
  - DOMAIN,mon.zijieapi.com
  - DOMAIN,sdk.alibaba.com.ailbaba.me
+ - DOMAIN-SUFFIX,easytomessage.com
