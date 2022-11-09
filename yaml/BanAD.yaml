@@ -28,6 +28,7 @@ payload:
  - DOMAIN,astrategy.beacon.qq.com
  - DOMAIN,log3-misc-lf.amemv.com
  - DOMAIN-SUFFIX,umeng.com
+ - DOMAIN-SUFFIX,jpush.io
  - DOMAIN-SUFFIX,jpush.cn
  - DOMAIN,tnc3-aliec2.snssdk.com
  - DOMAIN,log-sdk.ksapisrv.com
