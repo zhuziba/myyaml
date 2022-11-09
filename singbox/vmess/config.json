@@ -1,0 +1,30 @@
+{
+    "log": {
+        "disabled": false,
+        "level": "info",
+        "timestamp": true
+    },
+    "inbounds": [
+        {
+            "type": "vmess",
+            "listen": "::",
+            "listen_port": 80,
+            "sniff": true,
+            "sniff_override_destination": true,
+            "users": [
+                {
+                    "name": "public",
+                    "uuid": "ad806487-2d26-4636-98b6-ab85cc8521f7",
+                    "alterId": 0
+                }
+            ],
+            "transport": {
+                "type": "ws",
+                "path": "/ws",
+                "headers": {},
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        }
+    ]
+}
