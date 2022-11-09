@@ -14,4 +14,6 @@ payload:
  - DOMAIN,av1.xdrig.com
  - DOMAIN,me.xdrig.com
  - DOMAIN,gv1.xdrig.com
+ - DOMAIN,otheve.beacon.qq.com
+ - DOMAIN,log3-misc-lf.amemv.com
  - DOMAIN-SUFFIX,umeng.com
