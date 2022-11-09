@@ -17,6 +17,7 @@ payload:
  - DOMAIN,c.sayhi.360.cn
  - DOMAIN,ulogs.umengcloud.com
  - DOMAIN-SUFFIX,gdt.qq.com
+ - DOMAIN-SUFFIX,trace.qq.com
  - DOMAIN,log.tbs.qq.com
  - DOMAIN,android.bugly.qq.com
  - DOMAIN,astat.bugly.qq.com
