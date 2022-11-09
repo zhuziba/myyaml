@@ -35,8 +35,6 @@ payload:
  - DOMAIN,toblog.ctobsnssdk.com
  - DOMAIN,tobapplog.ctobsnssdk.com
  - DOMAIN,mon.zijieapi.com
- - DOMAIN,sdk.alibaba.com.ailbaba.me
  - DOMAIN,tnc3-alisc1.zijieapi.com
- - DOMAIN,log-alibaba-taobao-douyin.cdn.bcebos.com
  - DOMAIN-SUFFIX,easytomessage.com
  - DOMAIN-SUFFIX,pglstatp-toutiao.com
