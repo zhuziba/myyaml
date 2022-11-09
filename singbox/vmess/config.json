@@ -14,7 +14,6 @@
             "sniff_override_destination": true,
             "domain_strategy": "prefer_ipv4",
             "proxy_protocol": false,
-            "proxy_protocol_accept_no_header": false,
             "users": [
                 {
                     "name": "public",
