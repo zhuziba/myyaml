@@ -1,0 +1,125 @@
+port: 7890                 #本地http代理端口
+socks-port: 7891           #本地socks5代理端口
+#mixed-port: 7890             #本地混合代理(http和socks5合并）端口
+redir-port: 7892           #本地Linux/macOS Redir代理端口
+tproxy-port: 7893          #本地Linux Tproxy代理端口
+allow-lan: true
+mode: Rule
+log-level: info
+ipv6: false
+external-controller: 0.0.0.0:9090
+# RESTful API 的口令 (可选)
+secret: ""
+external-ui: dashboard
+
+dns:
+  enable: true # 关闭将使用系统 DNS
+  ipv6: false
+  listen: 0.0.0.0:53
+  default-nameserver:
+    - 223.5.5.5
+    - 223.6.6.6
+# enhanced-mode: fake-ip
+  enhanced-mode: redir-host
+  fake-ip-range: 198.18.0.1/16
+  use-hosts: true
+  nameserver:
+    - https://dns.rubyfish.cn/dns-query
+  fallback:
+    - https://doh.apad.pro/dns-query
+  fallback-filter:
+  geoip: true                  # default  
+  ipcidr:                      # ips in these subnets will be considered polluted
+    - 240.0.0.0/4
+  domain:  
+    - '+.google.com'
+    - '+.facebook.com'
+    - '+.youtube.com'
+experimental:
+  sniff-tls-sni: true
+interface-name: eth0
+routing-mark: 7777
+auto-redir:
+  enable: true
+  auto-route: true
+tun:
+  enable: true #Use TUN mode to take over global traffic.
+  device: meta
+  stack: system # or gvisor
+  dns-hijack:
+    - any:53
+  auto-route: true #Automatic set global routing on macOS/Windows/Linux.
+#  auto-detect-interface: false
+#ebpf:
+#  redirect-to-tun:
+#    - eth0
+#false
+proxies:
+  - {name: feifei520, server: feifei520.fly.dev, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: peng, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: feifei520.fly.dev, path: /peng, tls: true, mux: true, skip-cert-verify: true}, udp: true}
+  - {name: ibm-ss119, server: 172.64.158.182, port: 80, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ws, headers: {Host: ss119.cnm.workers.dev}}}
+proxy-groups:
+# url-test 可以自动选择与指定 URL 测速后，延迟最短的服务器
+#- { name: "负载均衡", type: load-balance, proxies: ["v2peng", "ibm-lifei51", "甲骨文uss"], url: "http://www.gstatic.com/generate_204", interval: 300 }
+- { name: "全球直连", type: select, proxies: ["DIRECT"] }
+- { name: "漏网之鱼", type: select, proxies: ["DIRECT"] }
+- { name: "国内机器", type: select, proxies: ["DIRECT"] }
+- { name: "全球拦截", type: select, proxies: ["REJECT", "DIRECT"] }
+- { name: "Telegram聊天", type: select, proxies: ["feifei520","ibm-ss119"] }
+- { name: "全部代理", type: select, proxies: ["ibm-ss119", "feifei520"] }
+- { name: "google视频", type: select, proxies: ["ibm-ss119", "feifei520"] }
+- { name: "奈飞视频", type: select, proxies: ["ibm-ss119", "feifei520"] }
+- { name: "游戏平台", type: select, proxies: ["ibm-ss119", "feifei520"] }
+rule-providers:
+  zhilian:
+    type: http
+    behavior: classical
+    path: ./zhilian.yaml
+    url: https://raw.iqiq.io/zhuziba/myyaml/main/yaml/zhilian.yaml
+    interval: 3600
+  lanjie:
+    type: http
+    behavior: classical
+    path: ./BanAD.yaml
+    url: https://raw.iqiq.io/zhuziba/myyaml/main/yaml/BanAD.yaml
+    interval: 3600
+  google:
+    type: http
+    behavior: classical
+    path: ./google.yaml
+    url: https://raw.iqiq.io/zhuziba/myyaml/main/yaml/google.yaml
+    interval: 3600 
+  fq:
+    type: http
+    behavior: classical
+    path: ./fq.yaml
+    url: https://raw.iqiq.io/zhuziba/myyaml/main/yaml/fq.yaml
+    interval: 3600
+  Telegram:
+    type: http
+    behavior: classical
+    path: ./Telegram.yaml
+    url: https://raw.iqiq.io/zhuziba/myyaml/main/yaml/Telegram.yaml
+    interval: 3600   
+rules:
+- RULE-SET,lanjie,全球拦截
+- RULE-SET,zhilian,国内机器
+- RULE-SET,google,google视频
+- RULE-SET,fq,全部代理
+- RULE-SET,Telegram,Telegram聊天
+# Local Area Network
+- IP-CIDR,0.0.0.0/8,全球直连,no-resolve 
+- IP-CIDR,10.0.0.0/8,全球直连,no-resolve 
+- IP-CIDR,192.168.0.0/16,全球直连,no-resolve 
+- IP-CIDR,127.0.0.0/8,全球直连,no-resolve 
+- IP-CIDR,172.16.0.0/12,全球直连,no-resolve 
+- IP-CIDR,169.254.0.0/16,全球直连,no-resolve 
+- IP-CIDR,224.0.0.0/4,全球直连,no-resolve 
+- IP-CIDR,240.0.0.0/4,全球直连,no-resolve 
+
+#- GEOSITE,telegram,Telegram聊天
+#- GEOSITE,google,视频
+#- GEOSITE,github,全部代理
+#- GEOSITE,apple,全球直连
+- GEOIP,CN,全球直连,no-resolve
+# 最终规则
+- MATCH,漏网之鱼
