@@ -37,23 +37,6 @@ dns:
     - '+.youtube.com'
 experimental:
   sniff-tls-sni: true
-interface-name: eth0
-routing-mark: 7777
-auto-redir:
-  enable: true
-  auto-route: true
-tun:
-  enable: true #Use TUN mode to take over global traffic.
-  device: meta
-  stack: system # or gvisor
-  dns-hijack:
-    - any:53
-  auto-route: true #Automatic set global routing on macOS/Windows/Linux.
-#  auto-detect-interface: false
-#ebpf:
-#  redirect-to-tun:
-#    - eth0
-#false
 proxies:
   - {name: feifei520, server: feifei520.fly.dev, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: peng, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: feifei520.fly.dev, path: /peng, tls: true, mux: true, skip-cert-verify: true}, udp: true}
   - {name: ibm-ss119, server: 8.219.91.92, port: 80, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ws, headers: {Host: ss119.cnm.workers.dev}}}
