@@ -21,9 +21,6 @@ payload:
   - DOMAIN-SUFFIX,nn.ci
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,imgur.com
-  - DOMAIN-SUFFIX,twitter.com
-  - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,g2.com
   - DOMAIN-SUFFIX,mail.io
   - DOMAIN-SUFFIX,helpscout.net
@@ -73,6 +70,11 @@ payload:
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,githubusercontent.com
+  #社交
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,instagram.com
   # > ABC
   - DOMAIN-SUFFIX,edgedatg.com
   - DOMAIN-SUFFIX,go.com
