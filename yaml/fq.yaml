@@ -120,7 +120,6 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN,hff.terahard.org
-  - DOMAIN-SUFFIX,steamdb.info
   #抖音
   - DOMAIN,mon.isnssdk.com
   - DOMAIN-SUFFIX,byteeffecttos-g.com
