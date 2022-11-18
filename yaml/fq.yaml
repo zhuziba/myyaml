@@ -52,6 +52,7 @@ payload:
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,bulianglin.com
+  - DOMAIN-SUFFIX,windowsupdate.com
   #oracle
   - DOMAIN-SUFFIX,oraclecloud.com
 
