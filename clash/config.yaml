@@ -24,7 +24,7 @@ dns:
   fake-ip-range: 198.18.0.1/16
   use-hosts: true
   nameserver:
-    - https://dns.rubyfish.cn/dns-query
+    - https://dns.alidns.com/dns-query
   fallback:
     - https://doh.apad.pro/dns-query
   fallback-filter:
