@@ -43,15 +43,16 @@ proxies:
   - {name: 甲骨文, server: g.armn1.ml, port: 80, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ws}}
 proxy-groups:
 # url-test 可以自动选择与指定 URL 测速后，延迟最短的服务器
+- { name: "relay", type: relay, proxies: ["feifei520", "甲骨文"] }
 - { name: "全球直连", type: select, proxies: ["DIRECT"] }
 - { name: "漏网之鱼", type: select, proxies: ["DIRECT"] }
 - { name: "国内机器", type: select, proxies: ["DIRECT"] }
 - { name: "全球拦截", type: select, proxies: ["REJECT", "DIRECT"] }
-- { name: "Telegram聊天", type: select, proxies: ["feifei520","ibm-ss119","甲骨文"] }
-- { name: "全部代理", type: select, proxies: ["ibm-ss119", "feifei520","甲骨文"] }
-- { name: "google视频", type: select, proxies: ["ibm-ss119", "feifei520","甲骨文"] }
-- { name: "奈飞视频", type: select, proxies: ["ibm-ss119", "feifei520","甲骨文"] }
-- { name: "游戏平台", type: select, proxies: ["ibm-ss119", "feifei520","甲骨文"] }
+- { name: "Telegram聊天", type: select, proxies: ["feifei520","ibm-ss119","relay"] }
+- { name: "全部代理", type: select, proxies: ["ibm-ss119", "feifei520","relay"] }
+- { name: "google视频", type: select, proxies: ["ibm-ss119", "feifei520","relay"] }
+- { name: "奈飞视频", type: select, proxies: ["ibm-ss119", "feifei520","relay"] }
+- { name: "游戏平台", type: select, proxies: ["ibm-ss119", "feifei520","relay"] }
 rule-providers:
   zhilian:
     type: http
