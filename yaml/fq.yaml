@@ -113,10 +113,7 @@ payload:
   #游戏
   - DOMAIN-SUFFIX,ddnet.org
   - DOMAIN-SUFFIX,multiplay.com
-  - DOMAIN,tw.login.kartrider.beanfun.com
-  - DOMAIN,tw.beanfun.com
-  - DOMAIN,tw.newlogin.beanfun.com
-  - DOMAIN-SUFFIX,nexon.com
+  - DOMAIN-SUFFIX,beanfun.com
   #FASTLY
   - DOMAIN-SUFFIX,fastly-analytics.com
   #steam
