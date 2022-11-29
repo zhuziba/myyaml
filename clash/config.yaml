@@ -46,7 +46,7 @@ proxies:
 proxy-groups:
 # url-test 可以自动选择与指定 URL 测速后，延迟最短的服务器
 - { name: "全球直连", type: select, proxies: ["DIRECT"] }
-- { name: "漏网之鱼", type: select, proxies: ["DIRECT"] }
+- { name: "漏网之鱼", type: select, proxies: ["DIRECT","ibm-ss119"] }
 - { name: "国内机器", type: select, proxies: ["DIRECT"] }
 - { name: "全球拦截", type: select, proxies: ["REJECT", "DIRECT"] }
 - { name: "Telegram聊天", type: select, proxies: ["feifei520","ibm-ss119"] }
