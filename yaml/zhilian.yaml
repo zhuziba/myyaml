@@ -1,14 +1,6 @@
 payload:
- ##steam
- - DOMAIN-SUFFIX,akamaized.net
- - DOMAIN-SUFFIX,akamaihd.net
- - DOMAIN-SUFFIX,steamstatic.com
- - DOMAIN-SUFFIX,steamcontent.com
- - DOMAIN-SUFFIX,wmsjsteam.com
- - DOMAIN-SUFFIX,ksyna.com
  ##微软
  - DOMAIN-SUFFIX,windows.com
- - DOMAIN-SUFFIX,windowsupdate
  - DOMAIN-SUFFIX,bdstatic.com
  - DOMAIN-SUFFIX,greasyfork.org
 
