@@ -117,10 +117,6 @@ payload:
   - DOMAIN-SUFFIX,beanfun.com
   #FASTLY
   - DOMAIN-SUFFIX,fastly-analytics.com
-  #steam
-  - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN,hff.terahard.org
   #抖音
   - DOMAIN,mon.isnssdk.com
   - DOMAIN-SUFFIX,byteeffecttos-g.com
