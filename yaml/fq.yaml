@@ -1,6 +1,7 @@
 payload:
   # > 网页
   - DOMAIN-SUFFIX,bulianglin.com
+  - DOMAIN-SUFFIX,kuokuo.io
   - DOMAIN-SUFFIX,bit.ly
   - DOMAIN-SUFFIX,abbyy.cn
   - DOMAIN-SUFFIX,byrut.org
