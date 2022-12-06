@@ -1,6 +1,7 @@
 payload:
 #steam
   - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,akamaiedge.net
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,steamstatic.com
