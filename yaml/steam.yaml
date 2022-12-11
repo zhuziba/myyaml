@@ -1,5 +1,6 @@
 payload:
 #steam
+  - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,akamaiedge.net
   - DOMAIN-SUFFIX,akamaized.net
