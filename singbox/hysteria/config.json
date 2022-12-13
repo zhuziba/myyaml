@@ -20,6 +20,9 @@
                     "auth_str": "password"
                 }
             ],
+            "recv_window_conn": 15728640,
+            "recv_window_client": 67108864,
+            "max_conn_client": 4096,
             "disable_mtu_discovery": true,
             "tls": {
                 "enabled": true,
