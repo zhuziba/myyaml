@@ -17,7 +17,7 @@
             "users": [
                 {
                     "name": "sekai",
-                    "auth_str": "10086"
+                    "auth_str": "password"
                 }
             ],
             "tls": {
