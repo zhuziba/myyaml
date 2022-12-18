@@ -126,5 +126,8 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokcdn-us.com
+  #docker
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,docker.com
   #ip
   - IP-CIDR,156.255.103.20/32
