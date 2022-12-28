@@ -114,8 +114,6 @@ payload:
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,fbsbx.com
   #游戏
-  - DOMAIN-SUFFIX,ddnet.org
-  - DOMAIN-SUFFIX,multiplay.com
   - DOMAIN-SUFFIX,beanfun.com
   #FASTLY
   - DOMAIN-SUFFIX,fastly-analytics.com
