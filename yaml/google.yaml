@@ -20,8 +20,6 @@ payload:
  - DOMAIN-SUFFIX,dns.google
  - DOMAIN-SUFFIX,pki.goog
  - DOMAIN-SUFFIX,youtu.be
- - DOMAIN-SUFFIX,gvt2.com
- - DOMAIN-SUFFIX,gvt1.com
  - DOMAIN-SUFFIX,googletagservices.com
  - DOMAIN-SUFFIX,googleusercontent.com
  - DOMAIN-SUFFIX,googlesyndication.com
@@ -49,4 +47,3 @@ payload:
  - IP-CIDR,173.194.0.0/16
  - IP-CIDR,142.250.0.0/15
  - IP-CIDR,108.177.0.0/17
- 
