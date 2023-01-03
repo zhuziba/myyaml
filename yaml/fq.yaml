@@ -83,8 +83,6 @@ payload:
   # > ABC
   - DOMAIN-SUFFIX,edgedatg.com
   - DOMAIN-SUFFIX,go.com
-  # one
-  - DOMAIN-SUFFIX,live.com
   #@tv
   - DOMAIN-SUFFIX,jisutv.vip
   - DOMAIN-SUFFIX,auroraoss.com
@@ -98,8 +96,6 @@ payload:
   - DOMAIN-SUFFIX,dockernb.com
   - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,v2ex.com
-  #微软
-  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,dadaorom.com
   - DOMAIN-SUFFIX,anyproxy.io
   #ip查询
