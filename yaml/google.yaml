@@ -1,4 +1,6 @@
 payload:
+ - DOMAIN-SUFFIX,about.google
+ - DOMAIN-SUFFIX,sustainability.google
  - DOMAIN-SUFFIX,cloudshell.dev
  - DOMAIN-SUFFIX,gvt2.com
  - DOMAIN-SUFFIX,google.com
