@@ -125,3 +125,6 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   #ip
   - IP-CIDR,156.255.103.20/32
+  #cf
+  - IP-CIDR,172.67.64.0/20
+  - IP-CIDR,104.26.0.0/20
