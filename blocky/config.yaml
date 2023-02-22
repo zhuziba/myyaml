@@ -1,0 +1,52 @@
+upstream:
+  default:
+    - https://doh.apad.pro/dns-query
+    - https://dns.alidns.com/dns-query
+    - https://dns.cooluc.com/dns-query
+# accepted: dual, v4, v6
+# default: dual
+#connectIPVersion: dual
+#FQDN only
+fqdnOnly: true
+#黑名单设置
+blocking:
+  blackLists:
+    ads:
+      - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+  clientGroupsBlock:
+    default:
+      - ads
+caching:
+  minTime: 5m
+  maxTime: 30m
+  prefetching: true
+  maxItemsCount: 0
+filtering:
+  queryTypes:
+    - AAAA    
+#port: 53
+#tlsPort: 853
+httpPort: 4000
+#httpsPort: 443
+bootstrapDns: tcp+udp:180.76.76.76
+# optional: Log level (one from debug, info, warn, error). Default: info
+logLevel: info
+# optional: Log format (text or json). Default: text
+logFormat: json
+# optional: log timestamps. Default: true
+logTimestamp: true
+# optional: obfuscate log output (replace all alphanumeric characters with *) for user sensitive data like request domains or responses to increase privacy. Default: false
+logPrivacy: false
+#验证上游
+startVerifyUpstream: false
+
+#prometheus设置
+prometheus:
+   enable: true
+   path: /metrics
+hostsFile:
+  filePath: /etc/hosts
+  hostsTTL: 60m
+  refreshPeriod: 30m
+ede:
+  enable: true
