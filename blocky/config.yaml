@@ -8,14 +8,6 @@ upstream:
 #connectIPVersion: dual
 #FQDN only
 fqdnOnly: true
-#黑名单设置
-blocking:
-  blackLists:
-    ads:
-      - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-  clientGroupsBlock:
-    default:
-      - ads
 caching:
   minTime: 5m
   maxTime: 30m
