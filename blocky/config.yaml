@@ -2,7 +2,6 @@ upstream:
   default:
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
-    - https://dns.quad9.net/dns-query
 # accepted: dual, v4, v6
 # default: dual
 #connectIPVersion: dual
