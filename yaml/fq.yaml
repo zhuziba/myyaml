@@ -30,9 +30,9 @@ payload:
   - DOMAIN-SUFFIX,deyaya.cc
   - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,fuli.one
-  - DOMAIN-SUFFIX,avtb01.com
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,91porn.com
+  - DOMAIN-SUFFIX,killcovid2021.com
   - DOMAIN-SUFFIX,n90yl.work
   - DOMAIN-SUFFIX,gilrl6.work
   - DOMAIN-SUFFIX,xiongda.work
@@ -112,6 +112,7 @@ payload:
   - DOMAIN-SUFFIX,fbsbx.com
   #游戏
   - DOMAIN-SUFFIX,beanfun.com
+  - DOMAIN-SUFFIX,ddnet.org
   #FASTLY
   - DOMAIN-SUFFIX,fastly-analytics.com
   #抖音
