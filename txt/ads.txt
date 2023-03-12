@@ -33,6 +33,16 @@
 ||sdk.e.qq.com
 ||ios.bugly.qq.com
 ||h.trace.qq.com
+||win.gdt.qq.com
 ||android.bugly.qq.com
 ||pingma.qq.com
+||v2.gdt.qq.com
+||v.gdt.qq.com
+||rpt.gdt.qq.com
+||h5.gdt.qq.com
+||t.gdt.qq.com
+||c.gdt.qq.com
+||c2.gdt.qq.com
+||mi.gdt.qq.com
+||win.gdt.qq.com
 ||mediav.com
