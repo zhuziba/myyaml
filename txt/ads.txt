@@ -33,7 +33,6 @@
 ||sdk.e.qq.com
 ||ios.bugly.qq.com
 ||h.trace.qq.com
-||win.gdt.qq.com
 ||android.bugly.qq.com
 ||pingma.qq.com
 ||v2.gdt.qq.com
