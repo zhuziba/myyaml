@@ -11,6 +11,7 @@
 ||pl.cp31.ott.cibntv.net
 ||ykugc.cp31.ott.cibntv.net
 ||e.crashlytics.com
+||googleads.g.doubleclick.net
 ||boooba.com
 ||xdrig.com
 ||snssdk.com
