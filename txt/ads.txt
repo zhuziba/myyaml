@@ -12,8 +12,6 @@
 ||ykugc.cp31.ott.cibntv.net
 ||e.crashlytics.com
 ||boooba.com
-# [waxrain投屏]
-||develop.waxrain.com
 ||xdrig.com
 ||snssdk.com
 @@||i.snssdk.com
