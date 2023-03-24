@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,mozilla.org
   #oracle
   - DOMAIN-SUFFIX,oraclecloud.com
 
@@ -119,7 +120,6 @@ payload:
   - DOMAIN-SUFFIX,fastly-analytics.com
   #抖音
   - DOMAIN,mon.isnssdk.com
-  - DOMAIN,mozilla.cloudflare-dns.com
   - DOMAIN-SUFFIX,byteeffecttos-g.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokcdn.com
