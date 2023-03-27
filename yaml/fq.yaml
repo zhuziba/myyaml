@@ -58,6 +58,8 @@ payload:
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-SUFFIX,mozilla.com
+  - DOMAIN-SUFFIX,mozilla.net
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,lencr.org
   #oracle
