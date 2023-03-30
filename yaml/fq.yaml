@@ -2,6 +2,7 @@ payload:
   # > 网页
   - DOMAIN-SUFFIX,kuokuo.io
   - DOMAIN-SUFFIX,nextdns.io
+  - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,bit.ly
   - DOMAIN-SUFFIX,yadi.sk
   - DOMAIN-SUFFIX,gaoji.fun
