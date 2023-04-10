@@ -5,8 +5,6 @@ upstream:
 # accepted: dual, v4, v6
 # default: dual
 #connectIPVersion: dual
-#FQDN only
-fqdnOnly: true
 caching:
   minTime: 5m
   maxTime: 30m
@@ -28,8 +26,6 @@ logFormat: json
 logTimestamp: true
 # optional: obfuscate log output (replace all alphanumeric characters with *) for user sensitive data like request domains or responses to increase privacy. Default: false
 logPrivacy: false
-#验证上游
-startVerifyUpstream: false
 
 #prometheus设置
 prometheus:
@@ -39,5 +35,3 @@ hostsFile:
   filePath: /etc/hosts
   hostsTTL: 60m
   refreshPeriod: 30m
-ede:
-  enable: true
