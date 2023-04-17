@@ -15,7 +15,7 @@ filtering:
     - AAAA    
 #port: 53
 #tlsPort: 853
-httpPort: 80
+httpPort: 8080
 #httpsPort: 443
 bootstrapDns: tcp+udp:208.67.222.222
 # optional: Log level (one from debug, info, warn, error). Default: info
