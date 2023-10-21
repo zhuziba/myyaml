@@ -1,5 +1,6 @@
 payload:
   # > 网页
+  - DOMAIN-SUFFIX,magmanode.com
   - DOMAIN-SUFFIX,tempmusics.tk
   - DOMAIN-SUFFIX,kuokuo.io
   - DOMAIN-SUFFIX,nextdns.io
