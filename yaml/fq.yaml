@@ -1,5 +1,6 @@
 payload:
   # > 网页
+  - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,magmanode.com
   - DOMAIN-SUFFIX,tempmusics.tk
   - DOMAIN-SUFFIX,kuokuo.io
