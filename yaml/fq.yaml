@@ -1,7 +1,5 @@
 payload:
   # > 网页
-  - DOMAIN-SUFFIX,ls-network.re
-  - DOMAIN-SUFFIX,cchi.me
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,geforcenow.com
   - DOMAIN-SUFFIX,magmanode.com
