@@ -1,7 +1,5 @@
 payload:
   # > 网页
-  - DOMAIN-SUFFIX,tinfoil.media
-  - DOMAIN-SUFFIX,liberashop.rs
   - DOMAIN-SUFFIX,ls-network.re
   - DOMAIN-SUFFIX,cchi.me
   - DOMAIN-SUFFIX,nvidia.com
