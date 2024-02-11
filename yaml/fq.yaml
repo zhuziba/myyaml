@@ -1,5 +1,8 @@
 payload:
   # > 网页
+  - DOMAIN-SUFFIX,ziperto.com
+  - DOMAIN-SUFFIX,nxbrew.com
+  - DOMAIN-SUFFIX,nsw2u.com
   - DOMAIN-SUFFIX,download-send.com
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,geforcenow.com
