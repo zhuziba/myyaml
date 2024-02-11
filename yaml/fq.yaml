@@ -1,5 +1,6 @@
 payload:
   # > 网页
+  - DOMAIN-SUFFIX,download-send.com
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,geforcenow.com
   - DOMAIN-SUFFIX,magmanode.com
